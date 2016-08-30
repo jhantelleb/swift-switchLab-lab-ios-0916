@@ -99,7 +99,9 @@ func isForceWith(name:String)->Bool{
 }
 
 
+isForceWith("Luke") // true
 
+isForceWith("Mary") // false
 
 
 /*: Question 6
