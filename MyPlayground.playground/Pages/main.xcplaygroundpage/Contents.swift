@@ -61,7 +61,7 @@ func isGreater(a:Int, b:Int)->String{
     case true:
         return "yep"
     default:
-        return "no"
+        return "nope"
     }
 }
 
